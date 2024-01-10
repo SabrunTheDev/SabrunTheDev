@@ -6,7 +6,16 @@
 - :computer: Connect with me on **[LinkedIn](https://www.linkedin.com/in/sabrun/)**
 
 <br/>
-  
+
+<h2 align="left">Languages, Libraries, and Tools:</h2>
+<div>
+  <img  alt="Python" src ="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img  alt="Java" src ="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img  alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img  alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img  alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white"/>
+</div>
+<be>
 <!--
 **SabrunTheDev/SabrunTheDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
