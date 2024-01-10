@@ -1,5 +1,12 @@
 <h1 align="left">Hi 👋, I'm Sabrun</h1>
 
+- 🔭 I’m currently working on **Machine Learning projects**.
+- 🌱 I’m currently learning **Python and Algorithms**. 
+- 👯 I’m looking to collaborate on **AI related projects**.
+- :computer: Connect with me on **[LinkedIn](https://www.linkedin.com/in/sabrun/)**
+
+<br/>
+  
 <!--
 **SabrunTheDev/SabrunTheDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
