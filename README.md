@@ -27,7 +27,7 @@
 
 <h2 align="left">Stats:</h2>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SabrunTheDev&show_icons=true&locale=en&layout=compact" alt="Most Used Programming Languages" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SabrunTheDev&" alt="Streak and Commits" />
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SabrunTheDev" alt="GitHub Streak" /></a>
 <!--
 **SabrunTheDev/SabrunTheDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
