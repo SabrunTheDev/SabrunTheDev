@@ -23,7 +23,11 @@
   <img  alt="Bootstrap" src ="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </div>
 
-<be/>
+<br/>
+
+<h2 align="left">Stats:</h2>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SabrunTheDev&show_icons=true&locale=en&layout=compact" alt="Most Used Programming Languages" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SabrunTheDev&" alt="Streak and Commits" />
 <!--
 **SabrunTheDev/SabrunTheDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
