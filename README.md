@@ -4,7 +4,7 @@
   <li>🔭 I’m currently working on *Machine Learning projects*.</li>
   <li>🌱 I’m currently learning **Python and Algorithms**.  </li> 
   <li>👯 I’m looking to collaborate on *AI related projects*.</li>
-  <li>:computer: Connect with me on <span style="font-weight:bold">[LinkedIn](https://www.linkedin.com/in/sabrun/)*<span></li>
+  <li>:computer: Connect with me on <span style="font-weight:bold;">[LinkedIn](https://www.linkedin.com/in/sabrun/)<span></li>
 </ul>
 
 
