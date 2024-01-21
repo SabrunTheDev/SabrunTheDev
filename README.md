@@ -1,9 +1,12 @@
 <h1 align="left">Hi 👋, I'm Sabrun</h1>
 
-- 🔭 I’m currently working on **Machine Learning projects**.
-- 🌱 I’m currently learning **Python and Algorithms**. 
-- 👯 I’m looking to collaborate on **AI related projects**.
-- :computer: Connect with me on **[LinkedIn](https://www.linkedin.com/in/sabrun/)**
+<ul>
+  <li>🔭 I’m currently working on **Machine Learning projects**.</li>
+  <li>🌱 I’m currently learning **Python and Algorithms**.  </li> 
+  <li>👯 I’m looking to collaborate on **AI related projects**.</li>
+  <li>:computer: Connect with me on **[LinkedIn](https://www.linkedin.com/in/sabrun/)**</li>
+</ul>
+
 
 <br/>
 
