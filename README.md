@@ -27,8 +27,6 @@
 
 <br/>
 
-<h2 align="left">Stats:</h2>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SabrunTheDev&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="Most Used Programming Languages" />
 <!--
 **SabrunTheDev/SabrunTheDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
