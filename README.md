@@ -28,7 +28,7 @@
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SabrunTheDev&hide_progress=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SabrunTheDev&hide_progress=true&theme=tokyonight&border_color=2e4058)
 
 <!--
 **SabrunTheDev/SabrunTheDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
