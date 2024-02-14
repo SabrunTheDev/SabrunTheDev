@@ -2,7 +2,7 @@
 
   - 🔭 I’m currently working on **MERN Stack development**.
   - 🌱 I’m currently learning **Python and Algorithms**.
-  - 👯 I’m looking to collaborate on **AI related projects**.
+  - 👯 I’m looking to collaborate on **AI & ML projects**.
   - :computer: Connect with me on **[LinkedIn](https://www.linkedin.com/in/sabrun/)**
 
 
