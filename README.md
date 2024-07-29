@@ -45,9 +45,16 @@
 <br/>
   <div>
     <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+    <img alt="AWS Lambda" src="https://img.shields.io/badge/AWS%20Lambda-FF9900.svg?style=for-the-badge&logo=AWS-Lambda&logoColor=white"/>
+    <img alt="OpenAI API" src="https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white"/>
+  </div>
+
+<br/>
+  
+  <div>
+    <img alt="ThreeJS" src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white"/>
   </div>
   
-
 <br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SabrunTheDev&hide_progress=true&theme=tokyonight&border_color=2e4058)
