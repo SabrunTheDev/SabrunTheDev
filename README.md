@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Sabrun</h1>
 
-  - 🔭 I’m currently working on **AI Applications**.
+  - 🔭 I’m currently working on **AI & FinTech Applications**.
   - 🌱 I’m currently learning to utilize **NextJS, MUI, and Firebase**.
   - 👯 I’m looking to collaborate on **Open-Source Projects**.
   - :computer: Connect with me on **[LinkedIn](https://www.linkedin.com/in/sabrun/)**
